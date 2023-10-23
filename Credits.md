@@ -229,4 +229,6 @@ Extension Asset
 Used with permission from the Unity Asset Store: https://unity.com/legal/as-terms?clickref=1011lxV4T6UH&utm_source=partnerize&utm_medium=affiliate&utm_campaign=unity_affiliate 
 https://assetstore.unity.com/packages/audio/ambient/sci-fi/universe-sounds-free-pack-118865
 
-
+Animation by Mixamo (owned by Adobe)
+Used with Permission from Adobe: https://helpx.adobe.com/legal/legal-notices.html
+https://www.mixamo.com/#/?page=1
