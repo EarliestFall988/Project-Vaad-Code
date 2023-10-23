@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 010e390e69189d7418fb45440e284e3f, type: 3}
+  m_Name: Automatic
+  m_EditorClassIdentifier: 
+  WeaponSilhouette: {fileID: 21300000, guid: 790a4094bfb654b49b18eb1f9abcedfb, type: 3}
+  reloadTime: 2.5
+  masterFireRate: 0
+  clipSize: 40
+  bulletsInClip: 10
+  bulletsLeft: 100
+  totalBulletsLeft: 100
+  automatic: 1
+  DrawTime: 0.5
+  Damage: 5
+  EffectiveRange: 30
+  spreadLimit: {x: 2, y: 2}
+  zoomFOV: 60
+  scopeZoom: 0
+  AimDamage: 12
+  AimEffectiveRange: 120
+  AimSpreadLimit: {x: 0.05, y: 0.05}
+  bulletsPerFire: 1
+  fireRate: 0.07
+  KickBackModelAmount: 1
+  KickBackRange: {x: 0.125, y: 0.125}
+  KickBackPerBullet: 1
+  FireSounds:
+  - {fileID: 8300000, guid: 5f36dc1aa05d4354e9bea30e6bb63ffe, type: 3}
+  ReloadSounds:
+  - {fileID: 8300000, guid: a3d95b94b7902924f9a53d4d410b0dfa, type: 3}
+  - {fileID: 8300000, guid: c35c68546816ff9428f63b8dfd02d740, type: 3}
+  - {fileID: 8300000, guid: fa7cf0c0a8073ef4f905892ff538665d, type: 3}
+  EmptySounds: []
+  ReloadFoleySounds:
+  - {fileID: 8300000, guid: a90de4d31107ea24fb5e4efef01dfee9, type: 3}
+  - {fileID: 8300000, guid: dc7d7b87a5603ed478f230df738a2a32, type: 3}
+  - {fileID: 8300000, guid: 587a3f37adbb9a942883c3fc572878b6, type: 3}
+  - {fileID: 8300000, guid: 028f72811874bcb4792f60d65f833e6a, type: 3}
+  - {fileID: 8300000, guid: 05482271a9276be4fb20f32e1e046bf9, type: 3}
+  FireResetSounds:
+  - {fileID: 0}
+  FireTailSounds:
+  - {fileID: 8300000, guid: ca4f0a74263770446a8cd8ca52304ce0, type: 3}
+  totalReloadFoleySounds: 6
+  shotgun: 0
+  boltAction: 0

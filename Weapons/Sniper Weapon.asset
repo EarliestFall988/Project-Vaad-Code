@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 010e390e69189d7418fb45440e284e3f, type: 3}
+  m_Name: Sniper Weapon
+  m_EditorClassIdentifier: 
+  WeaponSilhouette: {fileID: 21300000, guid: c7cc80730012bf74381cd5d57d840750, type: 3}
+  reloadTime: 3
+  masterFireRate: 1
+  clipSize: 5
+  bulletsInClip: 5
+  bulletsLeft: 10
+  totalBulletsLeft: 15
+  automatic: 0
+  DrawTime: 0.8
+  Damage: 90
+  EffectiveRange: 300
+  spreadLimit: {x: 1, y: 1}
+  zoomFOV: 10
+  scopeZoom: 1
+  AimDamage: 12
+  AimEffectiveRange: 120
+  AimSpreadLimit: {x: 0.05, y: 0.05}
+  bulletsPerFire: 1
+  fireRate: 0.075
+  KickBackModelAmount: 0.5
+  KickBackRange: {x: 1, y: 1}
+  KickBackPerBullet: 1
+  FireSounds:
+  - {fileID: 8300000, guid: 131b40c43cb0bce4f8d1acb64b1df7f3, type: 3}
+  - {fileID: 8300000, guid: f2ce0654efac51047927fad4ec959448, type: 3}
+  - {fileID: 8300000, guid: 0bad816f84e3ce3429b3bb6b9f587ba8, type: 3}
+  - {fileID: 8300000, guid: c2d174f6204a5dc408f5524acd0ea189, type: 3}
+  - {fileID: 8300000, guid: 645a78324c4493f4f8e27bccaf5aa9f6, type: 3}
+  ReloadSounds:
+  - {fileID: 8300000, guid: a3d95b94b7902924f9a53d4d410b0dfa, type: 3}
+  - {fileID: 8300000, guid: c35c68546816ff9428f63b8dfd02d740, type: 3}
+  - {fileID: 8300000, guid: fa7cf0c0a8073ef4f905892ff538665d, type: 3}
+  EmptySounds: []
+  ReloadFoleySounds:
+  - {fileID: 8300000, guid: a90de4d31107ea24fb5e4efef01dfee9, type: 3}
+  - {fileID: 8300000, guid: dc7d7b87a5603ed478f230df738a2a32, type: 3}
+  - {fileID: 8300000, guid: 587a3f37adbb9a942883c3fc572878b6, type: 3}
+  - {fileID: 8300000, guid: 028f72811874bcb4792f60d65f833e6a, type: 3}
+  - {fileID: 8300000, guid: 05482271a9276be4fb20f32e1e046bf9, type: 3}
+  FireResetSounds:
+  - {fileID: 8300000, guid: 526b78049a014dc44aa04587f0e6ea40, type: 3}
+  FireTailSounds:
+  - {fileID: 8300000, guid: a96ca5cd36c847c4fb0dadc172bd39ec, type: 3}
+  totalReloadFoleySounds: 6
+  shotgun: 0
+  boltAction: 1
