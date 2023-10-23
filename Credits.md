@@ -165,3 +165,68 @@ Licensed under CC BY 4.0: https://filmmusic.io/standard-license
 SFX: 211146__unfa__another-crowd by unfa
 Free download: https://freesound.org/people/unfa/sounds/211146/
 This work is licensed under the Creative Commons 0 License.
+
+Free UI Click Sound Effects Pack
+Extension Asset
+Used with Permission From the Unity Asset Store: https://unity.com/legal/as-terms?clickref=1011lxV4T6UH&utm_source=partnerize&utm_medium=affiliate&utm_campaign=unity_affiliate
+https://assetstore.unity.com/packages/audio/sound-fx/free-ui-click-sound-pack-244644
+
+AI voice acting from Replica Studios
+Used with permission https://www.replicastudios.com/terms-of-service
+https://www.replicastudios.com/
+
+Replica Studios AI Voice Actors for Unity
+Used with permission from the Unity Asset Store: https://unity.com/legal/as-terms?clickref=1011lxV4T6UH&utm_source=partnerize&utm_medium=affiliate&utm_campaign=unity_affiliate 
+https://assetstore.unity.com/publishers/49897
+
+Polygon Scifi Worlds by Synty Studios
+Restricted Single Entity
+Used with permission from the Unity Asset Store: https://unity.com/legal/as-terms?clickref=1011lxV4T6UH&utm_source=partnerize&utm_medium=affiliate&utm_campaign=unity_affiliate 
+https://assetstore.unity.com/packages/3d/environments/sci-fi/polygon-sci-fi-worlds-low-poly-3d-art-by-synty-206299
+
+Polygon Scifi Space Pack by Synty Studios
+Restricted Single Entity
+Used with permission from the Unity Asset Store: https://unity.com/legal/as-terms?clickref=1011lxV4T6UH&utm_source=partnerize&utm_medium=affiliate&utm_campaign=unity_affiliate 
+https://assetstore.unity.com/packages/3d/environments/sci-fi/polygon-sci-fi-space-low-poly-3d-art-by-synty-138857)https://assetstore.unity.com/packages/3d/environments/sci-fi/polygon-sci-fi-space-low-poly-3d-art-by-synty-138857
+
+Character Movement Fundamentals by Jann Ott
+Extension Asset
+Used with permission from the Unity Asset Store: https://unity.com/legal/as-terms?clickref=1011lxV4T6UH&utm_source=partnerize&utm_medium=affiliate&utm_campaign=unity_affiliate 
+https://assetstore.unity.com/packages/tools/physics/character-movement-fundamentals-144966
+
+Gun and Explosion Sounds by Cafofo
+Extension Asset
+Used with permission from the Unity Asset Store: https://unity.com/legal/as-terms?clickref=1011lxV4T6UH&utm_source=partnerize&utm_medium=affiliate&utm_campaign=unity_affiliate 
+https://assetstore.unity.com/packages/audio/sound-fx/weapons/gun-explosion-sounds-176739
+
+Footstep and Foley Sounds by Gamemaster Audio
+Extention Asset? (Currently Deprecated)
+Used with permission from the Unity Asset Store: https://unity.com/legal/as-terms?clickref=1011lxV4T6UH&utm_source=partnerize&utm_medium=affiliate&utm_campaign=unity_affiliate 
+https://assetstore.unity.com/packages/audio/sound-fx/foley/footstep-and-foley-sounds-85360
+
+Leantween by Dented Pixel
+Extension Asset
+Used with permission from the Unity Asset Store: https://unity.com/legal/as-terms?clickref=1011lxV4T6UH&utm_source=partnerize&utm_medium=affiliate&utm_campaign=unity_affiliate 
+https://assetstore.unity.com/packages/tools/animation/leantween-3595
+
+Bakery Lightmaps by Mr F
+Extension Asset
+Used with permission from the Unity Asset Store: https://unity.com/legal/as-terms?clickref=1011lxV4T6UH&utm_source=partnerize&utm_medium=affiliate&utm_campaign=unity_affiliate 
+https://assetstore.unity.com/packages/tools/level-design/bakery-gpu-lightmapper-122218
+
+Abstract Spaceships (Free Sample Pack) by Inspector J Sound Effects
+Extension Asset
+Used with permission from the Unity Asset Store: https://unity.com/legal/as-terms?clickref=1011lxV4T6UH&utm_source=partnerize&utm_medium=affiliate&utm_campaign=unity_affiliate 
+https://assetstore.unity.com/packages/audio/sound-fx/transportation/abstract-spaceships-sfx-free-sample-pack-144353
+
+Ash Valley Cybernetics Light by Neal Bond
+Extension Asset
+Used with permission from the Unity Asset Store: https://unity.com/legal/as-terms?clickref=1011lxV4T6UH&utm_source=partnerize&utm_medium=affiliate&utm_campaign=unity_affiliate 
+https://assetstore.unity.com/packages/audio/sound-fx/ash-valley-cybernetics-lite-108327
+
+Universe Sounds Free Pack by Marcin Klosowski
+Extension Asset
+Used with permission from the Unity Asset Store: https://unity.com/legal/as-terms?clickref=1011lxV4T6UH&utm_source=partnerize&utm_medium=affiliate&utm_campaign=unity_affiliate 
+https://assetstore.unity.com/packages/audio/ambient/sci-fi/universe-sounds-free-pack-118865
+
+
